@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Suwayan sa nako</h1>
+        <h1>Suwayan sa nako ni ha!</h1>
         <Students />
       </header>
     </div>
